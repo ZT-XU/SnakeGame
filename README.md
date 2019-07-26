@@ -3,11 +3,11 @@
 
 使用JavaFx
 
-![](.\pause.png)
+![](./pause.png)
 
 
 
-![](.\gameover.png)
+![](./gameover.png)
 
-![](.\play.png)
+![](./play.png)
 
