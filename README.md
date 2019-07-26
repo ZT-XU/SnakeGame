@@ -7,7 +7,7 @@
 
 
 
-![](D:\IdeaProjects\SnakeGame\gameover.png)
+![](.\gameover.png)
 
 ![](.\play.png)
 
